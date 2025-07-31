@@ -36,3 +36,25 @@ Blink Rate: 23 /min
 Stress Level: 9/10
 Status: 🚨 STRESSED!
 System Action: Playing calming music, lowering AC...
+
+## 💻 How to Run
+g++ vibes.cpp -o vibes
+./vibes
+
+Optional: Clear old logs
+rm driver_log.txt
+
+File Structure
+📦 driver-monitoring-system
+├── vibes.cpp        → Main program
+├── vibes            → Compiled binary
+├── driver_log.txt   → State logs
+└── README.md        → This file ✨
+
+Technologies
+Language: C++
+Concepts: object-oriented logic, console UI, input validation, file I/O
+
+Author
+Navangana (Navi) Jha
+Student @UGA - Computer Systems Engineering
