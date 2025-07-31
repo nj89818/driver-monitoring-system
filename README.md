@@ -24,10 +24,14 @@ This project analyzes heart rate, blink rate, and stress level to classify the d
 
 
 ## 💻 How to Run
+
+```bash
 g++ vibes.cpp -o vibes
 ./vibes
 
-Optional: Clear old logs
+```markdown
+Optional: clear old logs
+```bash
 rm driver_log.txt
 
 File Structure
