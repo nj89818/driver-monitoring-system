@@ -1,0 +1,45 @@
+State: EMERGENCY | HR: 116 | Blinks: 22 | Stress: 10
+State: NORMAL | HR: 87 | Blinks: 14 | Stress: 2
+State: NORMAL | HR: 79 | Blinks: 5 | Stress: 5
+State: NORMAL | HR: 84 | Blinks: 17 | Stress: 3
+State: NORMAL | HR: 82 | Blinks: 6 | Stress: 5
+State: NORMAL | HR: 106 | Blinks: 14 | Stress: 8
+State: NORMAL | HR: 61 | Blinks: 11 | Stress: 5
+State: NORMAL | HR: 123 | Blinks: 12 | Stress: 3
+State: NORMAL | HR: 85 | Blinks: 22 | Stress: 3
+State: DROWSY | HR: 70 | Blinks: 7 | Stress: 2
+State: NORMAL | HR: 82 | Blinks: 5 | Stress: 5
+State: DROWSY | HR: 60 | Blinks: 7 | Stress: 8
+State: NORMAL | HR: 123 | Blinks: 19 | Stress: 4
+State: NORMAL | HR: 121 | Blinks: 17 | Stress: 1
+State: NORMAL | HR: 127 | Blinks: 5 | Stress: 4
+State: NORMAL | HR: 109 | Blinks: 16 | Stress: 7
+State: NORMAL | HR: 69 | Blinks: 12 | Stress: 6
+State: DROWSY | HR: 63 | Blinks: 6 | Stress: 6
+State: NORMAL | HR: 112 | Blinks: 6 | Stress: 1
+State: NORMAL | HR: 69 | Blinks: 12 | Stress: 8
+User Input -> State: STRESSED! | HR: 132 | Blinks: 6 | Stress: 10
+State: NORMAL | HR: 81 | Blinks: 19 | Stress: 6
+State: NORMAL | HR: 66 | Blinks: 21 | Stress: 7
+State: NORMAL | HR: 88 | Blinks: 10 | Stress: 9
+State: NORMAL | HR: 105 | Blinks: 12 | Stress: 9
+State: NORMAL | HR: 65 | Blinks: 14 | Stress: 3
+User Input -> State: EMERGENCY | HR: 132 | Blinks: 6 | Stress: 10
+State: NORMAL | HR: 112 | Blinks: 14 | Stress: 5
+State: NORMAL | HR: 103 | Blinks: 20 | Stress: 5
+State: DROWSY | HR: 76 | Blinks: 7 | Stress: 7
+State: NORMAL | HR: 83 | Blinks: 23 | Stress: 9
+State: NORMAL | HR: 121 | Blinks: 21 | Stress: 7
+User Input -> State: DROWSY | HR: 100 | Blinks: 6 | Stress: 7
+State: NORMAL | HR: 102 | Blinks: 15 | Stress: 2
+State: NORMAL | HR: 112 | Blinks: 14 | Stress: 3
+State: NORMAL | HR: 108 | Blinks: 19 | Stress: 1
+State: EMERGENCY | HR: 127 | Blinks: 7 | Stress: 10
+State: NORMAL | HR: 81 | Blinks: 24 | Stress: 5
+User Input -> State: EMERGENCY | HR: 90 | Blinks: 100 | Stress: 10
+State: NORMAL | HR: 98 | Blinks: 19 | Stress: 4
+State: DROWSY | HR: 76 | Blinks: 5 | Stress: 1
+State: NORMAL | HR: 61 | Blinks: 9 | Stress: 4
+State: EMERGENCY | HR: 115 | Blinks: 10 | Stress: 10
+State: DROWSY | HR: 93 | Blinks: 6 | Stress: 1
+User Input -> State: NORMAL | HR: 70 | Blinks: 16 | Stress: 5
