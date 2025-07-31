@@ -22,20 +22,6 @@ This project analyzes heart rate, blink rate, and stress level to classify the d
 - ✍️ **Manual mode**: Enter your own biometric values to test the system
 - 🗂️ **Logging**: All states saved to `driver_log.txt`
 
----
-
-## 📸 Sample Output
-
-```bash
-===============================
- VIBE: Driver Status Console
-===============================
-
-Heart Rate: 112 BPM
-Blink Rate: 23 /min
-Stress Level: 9/10
-Status: 🚨 STRESSED!
-System Action: Playing calming music, lowering AC...
 
 ## 💻 How to Run
 g++ vibes.cpp -o vibes
@@ -58,3 +44,17 @@ Concepts: object-oriented logic, console UI, input validation, file I/O
 Author
 Navangana (Navi) Jha
 Student @UGA - Computer Systems Engineering
+---
+
+## 📸 Sample Output
+
+```bash
+===============================
+ VIBE: Driver Status Console
+===============================
+
+Heart Rate: 112 BPM
+Blink Rate: 23 /min
+Stress Level: 9/10
+Status: 🚨 STRESSED!
+System Action: Playing calming music, lowering AC...
