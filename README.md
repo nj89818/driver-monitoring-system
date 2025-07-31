@@ -28,19 +28,21 @@ This project analyzes heart rate, blink rate, and stress level to classify the d
 ```bash
 g++ vibes.cpp -o vibes
 ./vibes
+``` 
 
-```markdown
 Optional: clear old logs
 ```bash
 rm driver_log.txt
+```
 
 File Structure
+```bash
 📦 driver-monitoring-system
 ├── vibes.cpp        → Main program
 ├── vibes            → Compiled binary
 ├── driver_log.txt   → State logs
 └── README.md        → This file ✨
-
+```
 Technologies
 Language: C++
 Concepts: object-oriented logic, console UI, input validation, file I/O
