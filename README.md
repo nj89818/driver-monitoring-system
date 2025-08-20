@@ -5,7 +5,7 @@ A C++ project that showcases a driver monitoring system using biometric data inp
 A C++ console application that simulates a biometric-based **driver state monitoring system**.  
 This project analyzes heart rate, blink rate, and stress level to classify the driver’s mental condition and trigger safety actions accordingly.
 
-> ✅ Built by **Navi Jha** – aspiring Software Engineer & system thinker 😤✨
+> ✅ Built by Navangana (Navi) Jha- Computer Systems Engineering Student @UGA
 
 ---
 
